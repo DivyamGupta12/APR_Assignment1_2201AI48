@@ -1,7 +1,7 @@
 # APR Assignment-1  
 
-**Made by** : Name  
-**Roll No.** : 222  
+**Made by** : Divyam Gupta  
+**Roll No.** : 2201AI48  
 
 ---
 
@@ -25,5 +25,4 @@ The code also includes:
 
 ---
 
-### Results & Visualization
-![Insert your image here](\image.png)
+![SVM's decision boundary over a 2D visualisation of the Data](https://github.com/DivyamGupta12/APR_Assignment1_2201AI48/blob/main/image.png)
